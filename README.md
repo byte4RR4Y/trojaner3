@@ -1,7 +1,7 @@
 # trojaner3
 trojan solutionfile for monodevelop or visual studio
 
-watch my video on youtube 
+watch my video on youtube https://youtu.be/18bL0rXaN10
 
 to generate shellcode use:
 
